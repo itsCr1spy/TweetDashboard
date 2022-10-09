@@ -1,0 +1,52 @@
+{
+  "id1": {
+    "id": 1,
+    "img": "https://source.unsplash.com/user/c_v_r/100x100",
+    "name": "Luka Tim",
+    "title": "Average Chatter",
+    "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lobortis.",
+    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lobortis.",
+    "likes": 21,
+    "views": 100
+  },
+  "id2": {
+    "id": 2,
+    "img": "https://source.unsplash.com/user/c_v_r/100x100",
+    "name": "Luka Ter",
+    "title": "Chad Chatter",
+    "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lobortis.",
+    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lobortis.",
+    "likes": 1000,
+    "views": 256
+  },
+  "id3": {
+    "id": 3,
+    "img": "https://source.unsplash.com/user/c_v_r/100x100",
+    "name": "Bruh",
+    "title": "Noob",
+    "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lobortis.",
+    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lobortis.",
+    "likes": 221,
+    "views": 1030
+  },
+  "id4": {
+    "id": 4,
+    "img": "https://source.unsplash.com/user/c_v_r/100x100",
+    "name": "Jigachad",
+    "title": "Pro",
+    "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lobortis.",
+    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lobortis.",
+    "likes": 1000,
+    "views": 3456
+  },
+  "id5": {
+    "id": 5,
+    "img": "https://source.unsplash.com/user/c_v_r/100x100",
+    "name": "Bob",
+    "title": "Amateur",
+    "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lobortis.",
+    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lobortis.",
+    "likes": 130,
+    "views": 2567
+  }
+}

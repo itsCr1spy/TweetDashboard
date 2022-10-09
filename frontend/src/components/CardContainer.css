@@ -1,0 +1,17 @@
+.tweetContainer{
+	justify-content: center;
+	width: fit-content;
+	max-width: 24rem;
+	align-items: center;
+	border: 1px solid gray;
+	border-radius: 1rem;
+	padding: 5px 2px 5px 2px;
+	margin: 0.5rem;
+}
+
+.dropdown-toggle::after {
+  display: none !important; 
+}
+.dropdown-toggle{
+	border: none;
+}

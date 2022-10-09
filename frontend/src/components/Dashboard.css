@@ -1,0 +1,30 @@
+.dashBoardMain{
+	margin: 1rem;
+	padding: 1rem;
+	height: fit-content;
+	border: 2px solid lightgrey;
+	border-radius: 1rem;
+	background-color: white;
+}
+
+.cards{
+	margin-top: 1.5rem;
+}
+
+.but{
+	margin-left: 1rem;
+}
+
+.sideButtons{
+	border-radius: 0;
+	background-color: white;
+}
+
+.sidebar{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+	position: fixed;
+}
